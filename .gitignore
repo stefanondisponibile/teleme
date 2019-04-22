@@ -56,3 +56,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# VsCode
+.vscode
+
+# Secrets
+secrets.json
+*.session
+
+# Data
+data/
